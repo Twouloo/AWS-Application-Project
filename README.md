@@ -55,7 +55,7 @@ with ThreadPoolExecutor(max_workers=1000) as executor:  # Adjust max_workers bas
 ```
 ## Results 
 
-It can be shown that the application successfully scaled in response to load to optimize target response time. (Note extreme load was generated which resulted in > 98% CPU usage on most servers throughout testing).
+It can be observed the application successfully scaled in response to load to optimize target response time. (Note extreme load was generated which resulted in > 98% CPU usage on most servers throughout testing).
 
 ![image](https://github.com/Twouloo/AWS-Application-Project/assets/150364814/03749f8b-5bc2-4024-b755-c8cf86125b4b)
 
